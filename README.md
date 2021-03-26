@@ -31,7 +31,7 @@ The images used to develop the game were obtained from:
 - <a href='https://www.freepik.com/vectors/school'>School vector created by upklyak - www.freepik.com</a>
 
  The music is from:
-- zapsplat.com
+- www.zapsplat.com
 
 
 
